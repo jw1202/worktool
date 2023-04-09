@@ -38,7 +38,7 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
+    - name: 常用工具
       sites:
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
@@ -58,21 +58,6 @@ content:
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
